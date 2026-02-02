@@ -1,7 +1,7 @@
 import { tokenMgr } from '../managers/TokenManager.js';
 import { vaultMgr } from '../managers/VaultManager.js';
 import { apiMgr } from '../managers/ApiManager.js';
-import { sessionMgr } from '../../demo-plain/managers/SessionManager.js';
+import { sessionMgr } from '../managers/SessionManager.js';
 import { LaunchView } from './views/Launch/LaunchView.js';
 import { LoginView } from './views/Login/LoginView.js';
 import { HomeView } from './views/Home/HomeView.js';
